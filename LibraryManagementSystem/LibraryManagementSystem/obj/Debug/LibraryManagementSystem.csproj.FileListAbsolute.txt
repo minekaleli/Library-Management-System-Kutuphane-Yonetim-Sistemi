@@ -1,0 +1,50 @@
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.HomePage.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminDashboard.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentLogin.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBook.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentDashboard.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBook.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBook.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewStudent.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBook.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddStudent.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBook.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminIssueBook.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminReturnBook.resources
+C:\Users\x1\Desktop\Yeni klasör (2)\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Statistics.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBook.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddStudent.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminDashboard.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminIssueBook.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminReturnBook.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.HomePage.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBook.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBook.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBook.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Statistics.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentDashboard.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentLogin.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBook.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewStudent.resources
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\x1\Desktop\BurakAliÇeçeMineSudenurKaleli-GraduationProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
